@@ -1185,4 +1185,70 @@ ExR等を最低限の機能のみで起動しています</value>
   <data name="OnGameStartOptionFirstButtonCoolDown" xml:space="preserve">
     <value>ゲーム開始から会議ボタンが押せない秒数</value>
   </data>
+  <data name="roleHistorySummary" xml:space="preserve">
+    <value>・役職変更履歴</value>
+  </data>
+  <data name="roleHistoryCause" xml:space="preserve">
+    <value>原因</value>
+  </data>
+  <data name="EmergencyTaskOption" xml:space="preserve">
+    <value>緊急タスクの制限時間</value>
+  </data>
+  <data name="EmergencyTaskOptionSkeldReactor" xml:space="preserve">
+    <value>「スケルド」の「原子炉修理」</value>
+  </data>
+  <data name="EmergencyTaskOptionSkeldOxygen" xml:space="preserve">
+    <value>「スケルド」の「酸素修理」</value>
+  </data>
+  <data name="EmergencyTaskOptionMiraHqReactor" xml:space="preserve">
+    <value>「ミラHQ」の「原子炉修理」</value>
+  </data>
+  <data name="EmergencyTaskOptionMiraHqOxygen" xml:space="preserve">
+    <value>「ミラHQ」の「酸素修理」</value>
+  </data>
+  <data name="EmergencyTaskOptionPolusReactor" xml:space="preserve">
+    <value>「ポーラス」の「耐震安定装置リセット」</value>
+  </data>
+  <data name="EmergencyTaskOptionAirshipHeli" xml:space="preserve">
+    <value>「エアシップ」の「衝突回避」</value>
+  </data>
+  <data name="EmergencyTaskOptionFungleReactor" xml:space="preserve">
+    <value>「ファングル」の「原子炉修理」</value>
+  </data>
+  <data name="GhostRoleGlobalOptionHauntMinigameMaxSpeed" xml:space="preserve">
+    <value>「憑依」の最大移動速度</value>
+  </data>
+  <data name="IsRatioTeamAssign" xml:space="preserve">
+    <value>陣営比率アサイン</value>
+  </data>
+  <data name="AssignRatio" xml:space="preserve">
+    <value>アサイン比率</value>
+  </data>
+  <data name="OneToOne" xml:space="preserve">
+    <value>1:1</value>
+  </data>
+  <data name="TwoToOne" xml:space="preserve">
+    <value>2:1</value>
+  </data>
+  <data name="OneToTwo" xml:space="preserve">
+    <value>1:2</value>
+  </data>
+  <data name="TwoToTwo" xml:space="preserve">
+    <value>2:2</value>
+  </data>
+  <data name="OneToThree" xml:space="preserve">
+    <value>1:3</value>
+  </data>
+  <data name="ThreeToOne" xml:space="preserve">
+    <value>3:1</value>
+  </data>
+  <data name="ThreeToTwo" xml:space="preserve">
+    <value>3:2</value>
+  </data>
+  <data name="TwoToThree" xml:space="preserve">
+    <value>2:3</value>
+  </data>
+  <data name="ThreeToThree" xml:space="preserve">
+    <value>3:3</value>
+  </data>
 </root>
